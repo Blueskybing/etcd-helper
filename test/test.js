@@ -1,3 +1,4 @@
+/*
 var Etcd = require("../lib/etcd-helper");
 var params = {
     mysql: [{
@@ -15,3 +16,8 @@ new Etcd(['xxx.xxx.xxx.xxx:xxxx', 'xxx.xxx.xxx.xxx:xxxx', 'xxx.xxx.xxx.xxx:xxxx'
 
 console.log(params.mysql[0].config);
 console.log(params);
+*/
+
+var a = 'sd';
+
+console.log(a.indexOf('a'))
