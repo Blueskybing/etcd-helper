@@ -10,8 +10,7 @@ var params = {
         config: {}
     }
 };
-new Etcd(['203.195.136.32:2379', '119.29.40.144:2379', '182.254.234.220:2379']).setConfig(params);
-new Etcd(['203.195.136.32:2379', '119.29.40.144:2379', '182.254.234.220:2379']).watcherConfig(params);
+new Etcd(['xxx.xxx.xxx.xxx:xxxx', 'xxx.xxx.xxx.xxx:xxxx', 'xxx.xxx.xxx.xxx:xxxx']).setMysqlConfig(params);
 
 
 console.log(params.mysql[0].config);
