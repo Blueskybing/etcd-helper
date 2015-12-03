@@ -1,6 +1,6 @@
 {
   "name": "etcd-helper",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "etcd config",
   "main": "index.js",
   "scripts": {
